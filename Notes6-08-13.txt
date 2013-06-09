@@ -1,0 +1,20 @@
+Colony: a fish simulator game
+
+Starting items:
+start with basic tools: mining item(drill!?)
+						flora cutter(get roots for traps, crafting in general)						
+						no gun, gotta make it
+						
+						
+General alien notes:	spawn during a time
+						shorter and more action packed
+						some aliens should not come in normal spawns, need to hunt them
+						
+						
+Bullets:				Z coordinate is determined by targeted block
+
+
+Building:				Click placeable object in inventory
+						click spot on map to place
+						rotate object with keys
+						click again to confirm
