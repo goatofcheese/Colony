@@ -1,4 +1,0 @@
-Colony
-======
-
-Fish simulator game
