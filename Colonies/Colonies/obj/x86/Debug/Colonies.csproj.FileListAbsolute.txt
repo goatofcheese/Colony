@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\bin\x86\Debug\Colonies.exe
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\bin\x86\Debug\Colonies.pdb
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Colonies.exe
+c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Colonies.pdb
