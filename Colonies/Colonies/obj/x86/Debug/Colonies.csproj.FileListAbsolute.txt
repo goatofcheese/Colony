@@ -4,3 +4,12 @@ c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\ob
 c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Colonies.exe
 c:\users\joe\documents\visual studio 2010\Projects\Colonies\Colonies\Colonies\obj\x86\Debug\Colonies.pdb
+C:\Fish_Simulator\Colony\Colonies\Colonies\bin\x86\Debug\Colonies.exe
+C:\Fish_Simulator\Colony\Colonies\Colonies\bin\x86\Debug\Colonies.pdb
+C:\Fish_Simulator\Colony\Colonies\Colonies\obj\x86\Debug\Colonies.csprojResolveAssemblyReference.cache
+C:\Fish_Simulator\Colony\Colonies\Colonies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Fish_Simulator\Colony\Colonies\Colonies\obj\x86\Debug\Colonies.exe
+C:\Fish_Simulator\Colony\Colonies\Colonies\obj\x86\Debug\Colonies.pdb
+C:\Fish_Simulator\Colony\Colonies\Colonies\bin\x86\Debug\Content\Textures\fish.xnb
+C:\Fish_Simulator\Colony\Colonies\Colonies\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Fish_Simulator\Colony\Colonies\Colonies\bin\x86\Debug\Content\Textures\water.xnb

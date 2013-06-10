@@ -57,11 +57,14 @@ namespace Colonies.Screen
         public void Draw()
         {
             graphicsDeviceManager.GraphicsDevice.Clear(Color.Black);
+            spriteBatch.Begin();
 
-            DrawScreen();
+            DrawScreen(spriteBatch);
 
             foreach (Widget widget in widgets)
-                widget.Draw();
+                widget.Draw(spriteBatch);
+
+            spriteBatch.End();
         }
 
         /// <summary>
@@ -77,6 +80,6 @@ namespace Colonies.Screen
         /// <summary>
         /// Draws the screen (child implementation).
         /// </summary>
-        protected abstract void DrawScreen();
+        protected abstract void DrawScreen(SpriteBatch sb);
     }
 }

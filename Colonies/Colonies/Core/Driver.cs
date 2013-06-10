@@ -69,7 +69,7 @@ namespace Colonies.Core
             screenManager = ScreenManager.GetInstance();
             inputManager = InputManager.GetInstance();
 
-            screenManager.SetScreen(new MainScreen(graphicsDeviceManager));
+            screenManager.SetScreen(new MainScreen(graphicsDeviceManager, Content));
 
             base.Initialize();
         }
@@ -83,6 +83,7 @@ namespace Colonies.Core
             screenManager.Draw();
 
             base.Draw(gameTime);
+
         }
     }
 }
